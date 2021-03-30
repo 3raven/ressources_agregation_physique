@@ -1,0 +1,8 @@
+BUP : http://bupdoc.udppc.asso.fr/consultation/selections.php
+pgrm python : https://github.com/araoux/python_agregation
+images libres : https://commons.wikimedia.org/wiki/Main_Page
+
+catalogue livres : https://halley.ens.fr/search~S13
+
+cours moteurs : https://gitlab.in2p3.fr/jeremy.neveu/Moteurs
+cours électronique : https://gitlab.in2p3.fr/jeremy.neveu/Electronique
