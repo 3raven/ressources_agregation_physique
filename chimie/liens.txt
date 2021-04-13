@@ -2,3 +2,8 @@ images libres : https://commons.wikimedia.org/wiki/Main_Page
 tableau périodique : https://ptable.com/#Propri%C3%A9t%C3%A9s ; https://www.webelements.com/
 
 culture science chimie : https://culturesciences.chimie.ens.fr/
+vidéos : https://www.beautifulchemistry.net/reaction
+
+toxicité phénolphtaléine : https://national.udppc.asso.fr/index.php/espace-labo/securite/595-chimie-produit-en-question-la-phenolphtaleine
+simulation de titrage acido-basique : https://demonstrations.wolfram.com/AcidBaseTitrations/
+
