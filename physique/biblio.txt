@@ -13,5 +13,29 @@ Optique
 -------
 
 Sextant (manip)
+BFR
 
+Mécanique Quantique
+-------------------
 
+Le Bellac ?
+Cohen-Tannoudji ?
+Feynman ?
+Aslangul
+
+Electromagnétisme
+-----------------
+
+BFR
+
+Relativité
+----------
+
+Gourgoulhon, relativité restreinte
+
+Mécanique
+---------
+
+Physique des solides
+--------------------
+Kittel

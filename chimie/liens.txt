@@ -7,3 +7,4 @@ vidéos : https://www.beautifulchemistry.net/reaction
 toxicité phénolphtaléine : https://national.udppc.asso.fr/index.php/espace-labo/securite/595-chimie-produit-en-question-la-phenolphtaleine
 simulation de titrage acido-basique : https://demonstrations.wolfram.com/AcidBaseTitrations/
 
+
