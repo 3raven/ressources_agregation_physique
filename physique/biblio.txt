@@ -8,6 +8,7 @@ Thermodynamique
 ---------------
 
 Thermodynamique, Diu, édition Hermann
+Lhuillier, Intro à la thdyn
 
 Optique
 -------
@@ -18,10 +19,11 @@ BFR
 Mécanique Quantique
 -------------------
 
+Texier 
 Le Bellac ?
 Cohen-Tannoudji ?
 Feynman ?
-Aslangul
+Aslangul (dévellopements)
 
 Electromagnétisme
 -----------------
@@ -35,6 +37,10 @@ Gourgoulhon, relativité restreinte
 
 Mécanique
 ---------
+BFR
+Landau et Lifchitz
+Pérez (gyroscope)
+cours de Feynman
 
 Physique des solides
 --------------------
