@@ -1,0 +1,1097 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.7.10)  1 JUN 2021 21:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**montages.tex
+(./montages.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2020/01/30 v3.5g French support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count178
+\U@D=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count179
+)
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language5) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language5) on input line 92.
+\FB@nonchar=\count180
+Package babel Info: Making : an active character on input line 419.
+Package babel Info: Making ; an active character on input line 420.
+Package babel Info: Making ! an active character on input line 421.
+Package babel Info: Making ? an active character on input line 422.
+\FBguill@level=\count181
+\FBold@everypar=\toks18
+\FB@Mht=\dimen144
+\mc@charclass=\count182
+\mc@charfam=\count183
+\mc@charslot=\count184
+\std@mcc=\count185
+\dec@mcc=\count186
+\c@FBcaption@count=\count187
+\listindentFB=\dimen145
+\descindentFB=\dimen146
+\labelindentFB=\dimen147
+\labelwidthFB=\dimen148
+\leftmarginFB=\dimen149
+\parindentFFN=\dimen150
+\FBfnindent=\dimen151
+))
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen152
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks20
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks21
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count266
+\c@@ppsavesec=\count267
+\c@@ppsaveapp=\count268
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen163
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+\pdfmajorversion=\count272
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count273
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen164
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count274
+\Field@Width=\dimen165
+\Fld@charsize=\dimen166
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count280
+\l__pdf_internal_box=\box47
+)
+(./montages.aux)
+\openout1 = `montages.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 29.
+LaTeX Info: Redefining \dots on input line 29.
+LaTeX Info: Redefining \up on input line 29.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen167
+\scratchbox=\box48
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen168
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box49
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 29.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count287
+)
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
+
+(./montages.out) (./montages.out)
+\@outlinefile=\write3
+\openout3 = `montages.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 32.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 32.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images-exp/MecaCylindreTournant.png, id=607, 290.58563pt x 306.39468pt>
+File: images-exp/MecaCylindreTournant.png Graphic file (type png)
+<use images-exp/MecaCylindreTournant.png>
+Package pdftex.def Info: images-exp/MecaCylindreTournant.png  used on input lin
+e 62.
+(pdftex.def)             Requested size: 142.26378pt x 150.0038pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images-exp/Manip_frottement_solide.png, id=624, 185.94469pt x 80.55093pt>
+File: images-exp/Manip_frottement_solide.png Graphic file (type png)
+<use images-exp/Manip_frottement_solide.png>
+Package pdftex.def Info: images-exp/Manip_frottement_solide.png  used on input 
+line 88.
+(pdftex.def)             Requested size: 142.26378pt x 61.62985pt.
+ [2 <./images-exp/MecaCylindreTournant.png> <./images-exp/Manip_frottement_soli
+de.png>]
+<images-exp/MecaGyroscope.png, id=635, 158.09062pt x 158.09062pt>
+File: images-exp/MecaGyroscope.png Graphic file (type png)
+<use images-exp/MecaGyroscope.png>
+Package pdftex.def Info: images-exp/MecaGyroscope.png  used on input line 113.
+(pdftex.def)             Requested size: 142.26378pt x 142.273pt.
+<images-exp/Jurin1.png, id=636, 194.22563pt x 149.05687pt>
+File: images-exp/Jurin1.png Graphic file (type png)
+<use images-exp/Jurin1.png>
+Package pdftex.def Info: images-exp/Jurin1.png  used on input line 131.
+(pdftex.def)             Requested size: 142.26378pt x 109.18134pt.
+ [3 <./images-exp/MecaGyroscope.png>]
+<images-exp/Jurin2.png, id=644, 197.23688pt x 85.06781pt>
+File: images-exp/Jurin2.png Graphic file (type png)
+<use images-exp/Jurin2.png>
+Package pdftex.def Info: images-exp/Jurin2.png  used on input line 142.
+(pdftex.def)             Requested size: 142.26378pt x 61.3578pt.
+<images-exp/cuve_ondes.jpg, id=645, 2055.68pt x 1541.76pt>
+File: images-exp/cuve_ondes.jpg Graphic file (type jpg)
+<use images-exp/cuve_ondes.jpg>
+Package pdftex.def Info: images-exp/cuve_ondes.jpg  used on input line 162.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+[4 <./images-exp/Jurin1.png> <./images-exp/Jurin2.png>] [5 <./images-exp/cuve_o
+ndes.jpg>]
+<images-exp/chute_bille_glycerol.png, id=660, 190.46156pt x 137.7647pt>
+File: images-exp/chute_bille_glycerol.png Graphic file (type png)
+<use images-exp/chute_bille_glycerol.png>
+Package pdftex.def Info: images-exp/chute_bille_glycerol.png  used on input lin
+e 201.
+(pdftex.def)             Requested size: 142.26378pt x 102.90492pt.
+ [6 <./images-exp/chute_bille_glycerol.png>]
+<images-exp/EcoulementPoiseuille.png, id=668, 322.95656pt x 187.45032pt>
+File: images-exp/EcoulementPoiseuille.png Graphic file (type png)
+<use images-exp/EcoulementPoiseuille.png>
+Package pdftex.def Info: images-exp/EcoulementPoiseuille.png  used on input lin
+e 219.
+(pdftex.def)             Requested size: 142.26378pt x 82.57277pt.
+ [7 <./images-exp/EcoulementPoiseuille.png>]
+<images-exp/Pitot.png, id=677, 245.41687pt x 85.06781pt>
+File: images-exp/Pitot.png Graphic file (type png)
+<use images-exp/Pitot.png>
+Package pdftex.def Info: images-exp/Pitot.png  used on input line 242.
+(pdftex.def)             Requested size: 142.26378pt x 49.3134pt.
+ [8 <./images-exp/Pitot.png>]
+<images-exp/Tableau_resistivite_eau.png, id=684, 710.655pt x 161.85469pt>
+File: images-exp/Tableau_resistivite_eau.png Graphic file (type png)
+<use images-exp/Tableau_resistivite_eau.png>
+Package pdftex.def Info: images-exp/Tableau_resistivite_eau.png  used on input 
+line 267.
+(pdftex.def)             Requested size: 142.26378pt x 32.4pt.
+<images-exp/NiveauCapa-liqcon.png, id=685, 431.36156pt x 243.15843pt>
+File: images-exp/NiveauCapa-liqcon.png Graphic file (type png)
+<use images-exp/NiveauCapa-liqcon.png>
+Package pdftex.def Info: images-exp/NiveauCapa-liqcon.png  used on input line 2
+85.
+(pdftex.def)             Requested size: 142.26378pt x 80.19058pt.
+<images-exp/NiveauCapa-liqiso.png, id=686, 417.81094pt x 259.7203pt>
+File: images-exp/NiveauCapa-liqiso.png Graphic file (type png)
+<use images-exp/NiveauCapa-liqiso.png>
+Package pdftex.def Info: images-exp/NiveauCapa-liqiso.png  used on input line 2
+89.
+(pdftex.def)             Requested size: 142.26378pt x 88.43451pt.
+ [9 <./images-exp/Tableau_resistivite_eau.png> <./images-exp/NiveauCapa-liqcon.
+png>]
+<images-exp/CircuitEffetDoppler.png, id=697, 164.11313pt x 48.93282pt>
+File: images-exp/CircuitEffetDoppler.png Graphic file (type png)
+<use images-exp/CircuitEffetDoppler.png>
+Package pdftex.def Info: images-exp/CircuitEffetDoppler.png  used on input line
+ 308.
+(pdftex.def)             Requested size: 142.26378pt x 42.41887pt.
+ [10 <./images-exp/NiveauCapa-liqiso.png> <./images-exp/CircuitEffetDoppler.png
+>]
+<images-exp/Plateau_tournant.png, id=706, 998.9822pt x 560.0925pt>
+File: images-exp/Plateau_tournant.png Graphic file (type png)
+<use images-exp/Plateau_tournant.png>
+Package pdftex.def Info: images-exp/Plateau_tournant.png  used on input line 31
+5.
+(pdftex.def)             Requested size: 142.26378pt x 79.76273pt.
+ [11 <./images-exp/Plateau_tournant.png>]
+<images-exp/JaugeContrainte.png, id=713, 141.52875pt x 98.61844pt>
+File: images-exp/JaugeContrainte.png Graphic file (type png)
+<use images-exp/JaugeContrainte.png>
+Package pdftex.def Info: images-exp/JaugeContrainte.png  used on input line 373
+.
+(pdftex.def)             Requested size: 142.26378pt x 99.13882pt.
+ [12]
+<images-exp/pt_triple2.jpg, id=719, 2055.68pt x 1541.76pt>
+File: images-exp/pt_triple2.jpg Graphic file (type jpg)
+<use images-exp/pt_triple2.jpg>
+Package pdftex.def Info: images-exp/pt_triple2.jpg  used on input line 396.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/cloche_vide.jpg, id=720, 2055.68pt x 1541.76pt>
+File: images-exp/cloche_vide.jpg Graphic file (type jpg)
+<use images-exp/cloche_vide.jpg>
+Package pdftex.def Info: images-exp/cloche_vide.jpg  used on input line 400.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [13 <./images-exp/JaugeContrainte.png>] [14 <./images-exp/pt_triple2.jpg> <./i
+mages-exp/cloche_vide.jpg>]
+<images-exp/pile_Moll.jpg, id=734, 2055.68pt x 1541.76pt>
+File: images-exp/pile_Moll.jpg Graphic file (type jpg)
+<use images-exp/pile_Moll.jpg>
+Package pdftex.def Info: images-exp/pile_Moll.jpg  used on input line 438.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/ThermometriePrincipeThermopile_new.png, id=735, 854.44218pt x 262.7
+3157pt>
+File: images-exp/ThermometriePrincipeThermopile_new.png Graphic file (type png)
+
+<use images-exp/ThermometriePrincipeThermopile_new.png>
+Package pdftex.def Info: images-exp/ThermometriePrincipeThermopile_new.png  use
+d on input line 452.
+(pdftex.def)             Requested size: 142.26378pt x 43.7417pt.
+ [15 <./images-exp/pile_Moll.jpg> <./images-exp/ThermometriePrincipeThermopile_
+new.png>]
+<images-exp/ThermometriePrincipePyrometreOptique.png, id=743, 508.14844pt x 197
+.98969pt>
+File: images-exp/ThermometriePrincipePyrometreOptique.png Graphic file (type pn
+g)
+<use images-exp/ThermometriePrincipePyrometreOptique.png>
+Package pdftex.def Info: images-exp/ThermometriePrincipePyrometreOptique.png  u
+sed on input line 469.
+(pdftex.def)             Requested size: 142.26378pt x 55.43068pt.
+<images-exp/transition_phase_Sn.jpg, id=744, 2055.68pt x 1541.76pt>
+File: images-exp/transition_phase_Sn.jpg Graphic file (type jpg)
+<use images-exp/transition_phase_Sn.jpg>
+Package pdftex.def Info: images-exp/transition_phase_Sn.jpg  used on input line
+ 482.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [16 <./images-exp/ThermometriePrincipePyrometreOptique.png>]
+<images-exp/IsoT_SF6.png, id=752, 480.29437pt x 453.94594pt>
+File: images-exp/IsoT_SF6.png Graphic file (type png)
+<use images-exp/IsoT_SF6.png>
+Package pdftex.def Info: images-exp/IsoT_SF6.png  used on input line 493.
+(pdftex.def)             Requested size: 142.26378pt x 134.46008pt.
+<images-exp/diagramme_pv_sf6.jpg, id=753, 2055.68pt x 1541.76pt>
+File: images-exp/diagramme_pv_sf6.jpg Graphic file (type jpg)
+<use images-exp/diagramme_pv_sf6.jpg>
+Package pdftex.def Info: images-exp/diagramme_pv_sf6.jpg  used on input line 49
+7.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [17 <./images-exp/transition_phase_Sn.jpg> <./images-exp/IsoT_SF6.png> <./imag
+es-exp/diagramme_pv_sf6.jpg>]
+<images-exp/opalescence_critique.jpg, id=762, 1246.6575pt x 1207.51125pt>
+File: images-exp/opalescence_critique.jpg Graphic file (type jpg)
+<use images-exp/opalescence_critique.jpg>
+Package pdftex.def Info: images-exp/opalescence_critique.jpg  used on input lin
+e 516.
+(pdftex.def)             Requested size: 142.26378pt x 137.783pt.
+ [18 <./images-exp/opalescence_critique.jpg>]
+<images-exp/transition_ferro_para.jpg, id=769, 2055.68pt x 1541.76pt>
+File: images-exp/transition_ferro_para.jpg Graphic file (type jpg)
+<use images-exp/transition_ferro_para.jpg>
+Package pdftex.def Info: images-exp/transition_ferro_para.jpg  used on input li
+ne 542.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/aimant_lÃ©vitation.jpg, id=770, 2055.68pt x 1541.76pt>
+File: images-exp/aimant_lÃ©vitation.jpg Graphic file (type jpg)
+<use images-exp/aimant_lÃ©vitation.jpg>
+Package pdftex.def Info: images-exp/aimant_lÃ©vitation.jpg  used on input line 
+553.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [19 <./images-exp/transition_ferro_para.jpg>]
+<images-exp/Telescope.png, id=777, 367.3725pt x 165.61874pt>
+File: images-exp/Telescope.png Graphic file (type png)
+<use images-exp/Telescope.png>
+Package pdftex.def Info: images-exp/Telescope.png  used on input line 573.
+(pdftex.def)             Requested size: 142.26378pt x 64.13615pt.
+ [20 <./images-exp/aimant_lÃ©vitation.jpg> <./images-exp/Telescope.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 588.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 588.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 588.
+
+<images-exp/InstrumentsProfChamp1.png, id=788, 376.40625pt x 106.14656pt>
+File: images-exp/InstrumentsProfChamp1.png Graphic file (type png)
+<use images-exp/InstrumentsProfChamp1.png>
+Package pdftex.def Info: images-exp/InstrumentsProfChamp1.png  used on input li
+ne 600.
+(pdftex.def)             Requested size: 142.26378pt x 40.11906pt.
+<images-exp/InstrumentsProfChamp2.png, id=789, 333.49594pt x 65.49469pt>
+File: images-exp/InstrumentsProfChamp2.png Graphic file (type png)
+<use images-exp/InstrumentsProfChamp2.png>
+Package pdftex.def Info: images-exp/InstrumentsProfChamp2.png  used on input li
+ne 608.
+(pdftex.def)             Requested size: 142.26378pt x 27.93929pt.
+[21 <./images-exp/InstrumentsProfChamp1.png>]
+<images-exp/InstrumentsMicroscope.png, id=799, 232.61906pt x 100.87688pt>
+File: images-exp/InstrumentsMicroscope.png Graphic file (type png)
+<use images-exp/InstrumentsMicroscope.png>
+Package pdftex.def Info: images-exp/InstrumentsMicroscope.png  used on input li
+ne 624.
+(pdftex.def)             Requested size: 142.26378pt x 61.69487pt.
+ [22 <./images-exp/InstrumentsProfChamp2.png> <./images-exp/InstrumentsMicrosco
+pe.png>]
+<images-exp/Fentes_Young2.png, id=808, 203.25937pt x 60.97781pt>
+File: images-exp/Fentes_Young2.png Graphic file (type png)
+<use images-exp/Fentes_Young2.png>
+Package pdftex.def Info: images-exp/Fentes_Young2.png  used on input line 657.
+(pdftex.def)             Requested size: 142.26378pt x 42.68044pt.
+ [23 <./images-exp/Fentes_Young2.png>]
+<images-exp/Film_Savon.png, id=815, 228.10219pt x 65.49469pt>
+File: images-exp/Film_Savon.png Graphic file (type png)
+<use images-exp/Film_Savon.png>
+Package pdftex.def Info: images-exp/Film_Savon.png  used on input line 688.
+(pdftex.def)             Requested size: 142.26378pt x 40.8491pt.
+ [24 <./images-exp/Film_Savon.png>] [25]
+<images-exp/FigureGonioDessus.png, id=827, 203.25937pt x 319.94531pt>
+File: images-exp/FigureGonioDessus.png Graphic file (type png)
+<use images-exp/FigureGonioDessus.png>
+Package pdftex.def Info: images-exp/FigureGonioDessus.png  used on input line 7
+61.
+(pdftex.def)             Requested size: 142.26378pt x 223.94066pt.
+ [26] [27 <./images-exp/FigureGonioDessus.png>] [28] [29]
+<images-exp/gap_monochromateur.jpg, id=846, 2055.68pt x 1541.76pt>
+File: images-exp/gap_monochromateur.jpg Graphic file (type jpg)
+<use images-exp/gap_monochromateur.jpg>
+Package pdftex.def Info: images-exp/gap_monochromateur.jpg  used on input line 
+858.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [30 <./images-exp/gap_monochromateur.jpg>]
+[31] [32] [33] [34] [35] [36]
+
+LaTeX Warning: Command \' invalid in math mode on input line 1130.
+
+Missing character: There is no é in font cmr10!
+[37] [38]
+<images-exp/spectrecannele.png, id=887, 488.57532pt x 179.16937pt>
+File: images-exp/spectrecannele.png Graphic file (type png)
+<use images-exp/spectrecannele.png>
+Package pdftex.def Info: images-exp/spectrecannele.png  used on input line 1199
+.
+(pdftex.def)             Requested size: 142.26378pt x 52.17102pt.
+ [39 <./images-exp/spectrecannele.png>] [40]
+<images-exp/Polarrectdichro.png, id=898, 298.11375pt x 126.4725pt>
+File: images-exp/Polarrectdichro.png Graphic file (type png)
+<use images-exp/Polarrectdichro.png>
+Package pdftex.def Info: images-exp/Polarrectdichro.png  used on input line 128
+1.
+(pdftex.def)             Requested size: 142.26378pt x 60.35487pt.
+ [41 <./images-exp/Polarrectdichro.png>]
+<images-exp/Polardiffatom.png, id=905, 300.3722pt x 97.11281pt>
+File: images-exp/Polardiffatom.png Graphic file (type png)
+<use images-exp/Polardiffatom.png>
+Package pdftex.def Info: images-exp/Polardiffatom.png  used on input line 1302.
+
+(pdftex.def)             Requested size: 142.26378pt x 45.99568pt.
+<images-exp/Polarcuve.png, id=906, 298.11375pt x 126.4725pt>
+File: images-exp/Polarcuve.png Graphic file (type png)
+<use images-exp/Polarcuve.png>
+Package pdftex.def Info: images-exp/Polarcuve.png  used on input line 1311.
+(pdftex.def)             Requested size: 142.26378pt x 60.35487pt.
+ [42 <./images-exp/Polardiffatom.png> <./images-exp/Polarcuve.png>]
+<images-exp/Polarreflvitrbase.png, id=915, 188.20313pt x 118.19156pt>
+File: images-exp/Polarreflvitrbase.png Graphic file (type png)
+<use images-exp/Polarreflvitrbase.png>
+Package pdftex.def Info: images-exp/Polarreflvitrbase.png  used on input line 1
+352.
+(pdftex.def)             Requested size: 142.26378pt x 89.3486pt.
+<images-exp/Polarreflvitr.png, id=916, 397.485pt x 212.29312pt>
+File: images-exp/Polarreflvitr.png Graphic file (type png)
+<use images-exp/Polarreflvitr.png>
+Package pdftex.def Info: images-exp/Polarreflvitr.png  used on input line 1356.
+
+(pdftex.def)             Requested size: 142.26378pt x 75.98167pt.
+ [43 <./images-exp/Polarreflvitrbase.png> <./images-exp/Polarreflvitr.png>]
+<images-exp/PolarisationSchemaAnalyse.png, id=926, 572.1375pt x 308.65312pt>
+File: images-exp/PolarisationSchemaAnalyse.png Graphic file (type png)
+<use images-exp/PolarisationSchemaAnalyse.png>
+Package pdftex.def Info: images-exp/PolarisationSchemaAnalyse.png  used on inpu
+t line 1385.
+(pdftex.def)             Requested size: 284.52756pt x 153.49727pt.
+
+[44 <./images-exp/PolarisationSchemaAnalyse.png>] [45]
+<images-exp/Boussole_tangente.png, id=937, 106.89937pt x 133.24782pt>
+File: images-exp/Boussole_tangente.png Graphic file (type png)
+<use images-exp/Boussole_tangente.png>
+Package pdftex.def Info: images-exp/Boussole_tangente.png  used on input line 1
+466.
+(pdftex.def)             Requested size: 142.26378pt x 177.34138pt.
+ [46 <./images-exp/Boussole_tangente.png>] [47]
+<images-exp/MagnetismeCircuitMagnetique.png, id=948, 299.04828pt x 191.88931pt>
+
+File: images-exp/MagnetismeCircuitMagnetique.png Graphic file (type png)
+<use images-exp/MagnetismeCircuitMagnetique.png>
+Package pdftex.def Info: images-exp/MagnetismeCircuitMagnetique.png  used on in
+put line 1527.
+(pdftex.def)             Requested size: 284.52756pt x 182.58075pt.
+ [48 <./images-exp/MagnetismeCircuitMagnetique.png>]
+[49]
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 1586.
+
+[50]
+<images-exp/CircuitElecMesure4Points.png, id=964, 461.47406pt x 182.18062pt>
+File: images-exp/CircuitElecMesure4Points.png Graphic file (type png)
+<use images-exp/CircuitElecMesure4Points.png>
+Package pdftex.def Info: images-exp/CircuitElecMesure4Points.png  used on input
+ line 1636.
+(pdftex.def)             Requested size: 284.52756pt x 112.32533pt.
+ [51 <./images-exp/CircuitElecMesure4Points.png>] [52]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 1704.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 1704.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 1704.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 1704.
+
+Missing character: There is no ° in font cmr10!
+Missing character: There is no ° in font cmr10!
+<images-exp/Semicon3b.png, id=975, 325.215pt x 274.02374pt>
+File: images-exp/Semicon3b.png Graphic file (type png)
+<use images-exp/Semicon3b.png>
+Package pdftex.def Info: images-exp/Semicon3b.png  used on input line 1707.
+(pdftex.def)             Requested size: 284.52756pt x 239.75763pt.
+<images-exp/Semicon5.png, id=976, 517.18219pt x 168.63pt>
+File: images-exp/Semicon5.png Graphic file (type png)
+<use images-exp/Semicon5.png>
+Package pdftex.def Info: images-exp/Semicon5.png  used on input line 1719.
+(pdftex.def)             Requested size: 284.52756pt x 92.77509pt.
+<images-exp/Hall.jpg, id=977, 2055.68pt x 1541.76pt>
+File: images-exp/Hall.jpg Graphic file (type jpg)
+<use images-exp/Hall.jpg>
+Package pdftex.def Info: images-exp/Hall.jpg  used on input line 1727.
+(pdftex.def)             Requested size: 284.52756pt x 213.37477pt.
+[53] [54 <./images-exp/Semicon3b.png> <./images-exp/Semicon5.png>] [55 <./image
+s-exp/Hall.jpg>] [56] [57] [58]
+
+LaTeX Warning: Command \` invalid in math mode on input line 1924.
+
+
+LaTeX Warning: Command \^ invalid in math mode on input line 1924.
+
+Missing character: There is no à in font cmr10!
+Missing character: There is no î in font cmr10!
+
+LaTeX Warning: Command \` invalid in math mode on input line 1925.
+
+Missing character: There is no à in font cmr10!
+
+LaTeX Warning: Command \^ invalid in math mode on input line 1926.
+
+Missing character: There is no î in font cmr10!
+[59] [60] [61]
+
+LaTeX Warning: Command \' invalid in math mode on input line 2068.
+
+Missing character: There is no é in font cmr10!
+[62]
+
+LaTeX Warning: Command \' invalid in math mode on input line 2074.
+
+Missing character: There is no é in font cmr10!
+<images-exp/schema_transistor.png, id=1026, 340.27126pt x 341.77687pt>
+File: images-exp/schema_transistor.png Graphic file (type png)
+<use images-exp/schema_transistor.png>
+Package pdftex.def Info: images-exp/schema_transistor.png  used on input line 2
+088.
+(pdftex.def)             Requested size: 284.52756pt x 285.80247pt.
+<images-exp/Transistor_continu.png, id=1027, 178.41656pt x 85.82062pt>
+File: images-exp/Transistor_continu.png Graphic file (type png)
+<use images-exp/Transistor_continu.png>
+Package pdftex.def Info: images-exp/Transistor_continu.png  used on input line 
+2105.
+(pdftex.def)             Requested size: 284.52756pt x 136.8679pt.
+<images-exp/Transistor_alternatif.png, id=1028, 158.84344pt x 103.88812pt>
+File: images-exp/Transistor_alternatif.png Graphic file (type png)
+<use images-exp/Transistor_alternatif.png>
+Package pdftex.def Info: images-exp/Transistor_alternatif.png  used on input li
+ne 2112.
+(pdftex.def)             Requested size: 284.52756pt x 186.12343pt.
+[63] [64 <./images-exp/schema_transistor.png> <./images-exp/Transistor_continu.
+png>]
+<images-exp/Transistor_pushpull.png, id=1041, 222.07968pt x 155.83218pt>
+File: images-exp/Transistor_pushpull.png Graphic file (type png)
+<use images-exp/Transistor_pushpull.png>
+Package pdftex.def Info: images-exp/Transistor_pushpull.png  used on input line
+ 2132.
+(pdftex.def)             Requested size: 284.52756pt x 199.66425pt.
+ [65 <./images-exp/Transistor_alternatif.png>] [66 <./images-exp/Transistor_pus
+hpull.png>] [67] [68]
+<images-exp/PLL.png, id=1065, 963.6pt x 542.025pt>
+File: images-exp/PLL.png Graphic file (type png)
+<use images-exp/PLL.png>
+Package pdftex.def Info: images-exp/PLL.png  used on input line 2293.
+(pdftex.def)             Requested size: 284.52756pt x 160.04485pt.
+ [69 <./images-exp/PLL.png>] [70] [71] [72] [73]
+Overfull \hbox (145.62558pt too wide) in paragraph at lines 2506--2508
+[]\T1/cmr/m/n/10 que l'on ré-écrit $\OML/cmm/m/it/10 u[]\OT1/cmr/m/n/10 (\OML/c
+mm/m/it/10 t\OT1/cmr/m/n/10 ) = [] []$ 
+ []
+
+[74]
+<images-exp/CircuitElecPontPertesCondensateur.png, id=1093, 272.51813pt x 208.5
+2907pt>
+File: images-exp/CircuitElecPontPertesCondensateur.png Graphic file (type png)
+<use images-exp/CircuitElecPontPertesCondensateur.png>
+Package pdftex.def Info: images-exp/CircuitElecPontPertesCondensateur.png  used
+ on input line 2537.
+(pdftex.def)             Requested size: 284.52756pt x 217.73058pt.
+ [75 <./images-exp/CircuitElecPontPertesCondensateur.png>]
+<images-exp/diffraction_Ã©lectrons.jpg, id=1100, 2055.68pt x 1541.76pt>
+File: images-exp/diffraction_Ã©lectrons.jpg Graphic file (type jpg)
+<use images-exp/diffraction_Ã©lectrons.jpg>
+Package pdftex.def Info: images-exp/diffraction_Ã©lectrons.jpg  used on input l
+ine 2570.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/diffraction_Ã©lectrons2.jpg, id=1101, 2055.68pt x 1541.76pt>
+File: images-exp/diffraction_Ã©lectrons2.jpg Graphic file (type jpg)
+<use images-exp/diffraction_Ã©lectrons2.jpg>
+Package pdftex.def Info: images-exp/diffraction_Ã©lectrons2.jpg  used on input 
+line 2574.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/diffraction_Ã©lectrons3.jpg, id=1102, 2055.68pt x 1541.76pt>
+File: images-exp/diffraction_Ã©lectrons3.jpg Graphic file (type jpg)
+<use images-exp/diffraction_Ã©lectrons3.jpg>
+Package pdftex.def Info: images-exp/diffraction_Ã©lectrons3.jpg  used on input 
+line 2578.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/diffraction_Ã©lectrons4.jpg, id=1103, 2055.68pt x 1541.76pt>
+File: images-exp/diffraction_Ã©lectrons4.jpg Graphic file (type jpg)
+<use images-exp/diffraction_Ã©lectrons4.jpg>
+Package pdftex.def Info: images-exp/diffraction_Ã©lectrons4.jpg  used on input 
+line 2582.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/diffraction_Ã©lectrons5.jpg, id=1104, 2055.68pt x 1541.76pt>
+File: images-exp/diffraction_Ã©lectrons5.jpg Graphic file (type jpg)
+<use images-exp/diffraction_Ã©lectrons5.jpg>
+Package pdftex.def Info: images-exp/diffraction_Ã©lectrons5.jpg  used on input 
+line 2586.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/diffraction_Ã©lectrons6.jpg, id=1105, 2055.68pt x 1541.76pt>
+File: images-exp/diffraction_Ã©lectrons6.jpg Graphic file (type jpg)
+<use images-exp/diffraction_Ã©lectrons6.jpg>
+Package pdftex.def Info: images-exp/diffraction_Ã©lectrons6.jpg  used on input 
+line 2590.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [76 <./images-exp/diffraction_Ã©lectrons.jpg>] [77 <./images-exp/diffraction_Ã
+©lectrons2.jpg> <./images-exp/diffraction_Ã©lectrons3.jpg> <./images-exp/diffra
+ction_Ã©lectrons4.jpg> <./images-exp/diffraction_Ã©lectrons5.jpg>]
+<images-exp/Asservissement_eclair_fonct.png, id=1120, 322.20375pt x 63.23625pt>
+
+File: images-exp/Asservissement_eclair_fonct.png Graphic file (type png)
+<use images-exp/Asservissement_eclair_fonct.png>
+Package pdftex.def Info: images-exp/Asservissement_eclair_fonct.png  used on in
+put line 2616.
+(pdftex.def)             Requested size: 284.52756pt x 55.84393pt.
+<images-exp/Asservissement_eclair_plan.png, id=1121, 260.47313pt x 169.38281pt>
+
+File: images-exp/Asservissement_eclair_plan.png Graphic file (type png)
+<use images-exp/Asservissement_eclair_plan.png>
+Package pdftex.def Info: images-exp/Asservissement_eclair_plan.png  used on inp
+ut line 2622.
+(pdftex.def)             Requested size: 284.52756pt x 185.02678pt.
+ [78 <./images-exp/diffraction_Ã©lectrons6.jpg>] [79 <./images-exp/Asservisseme
+nt_eclair_fonct.png> <./images-exp/Asservissement_eclair_plan.png>]
+<images-exp/Oscill2.png, id=1136, 155.07938pt x 70.01157pt>
+File: images-exp/Oscill2.png Graphic file (type png)
+<use images-exp/Oscill2.png>
+Package pdftex.def Info: images-exp/Oscill2.png  used on input line 2684.
+(pdftex.def)             Requested size: 142.26378pt x 64.22552pt.
+ [80]
+<images-exp/Oscill3.png, id=1141, 122.70844pt x 107.65219pt>
+File: images-exp/Oscill3.png Graphic file (type png)
+<use images-exp/Oscill3.png>
+Package pdftex.def Info: images-exp/Oscill3.png  used on input line 2695.
+(pdftex.def)             Requested size: 142.26378pt x 124.81255pt.
+ [81 <./images-exp/Oscill2.png> <./images-exp/Oscill3.png>]
+<images-exp/Oscill8.png, id=1150, 135.50626pt x 118.94438pt>
+File: images-exp/Oscill8.png Graphic file (type png)
+<use images-exp/Oscill8.png>
+Package pdftex.def Info: images-exp/Oscill8.png  used on input line 2748.
+(pdftex.def)             Requested size: 142.26378pt x 124.88075pt.
+ [82 <./images-exp/Oscill8.png>] [83]
+
+LaTeX Warning: Command \` invalid in math mode on input line 2804.
+
+Missing character: There is no ù in font cmr10!
+[84] [85]
+<images-exp/PhysNL_BifFourche2.png, id=1170, 296.60812pt x 91.09032pt>
+File: images-exp/PhysNL_BifFourche2.png Graphic file (type png)
+<use images-exp/PhysNL_BifFourche2.png>
+Package pdftex.def Info: images-exp/PhysNL_BifFourche2.png  used on input line 
+2856.
+(pdftex.def)             Requested size: 284.52756pt x 87.38313pt.
+ [86 <./images-exp/PhysNL_BifFourche2.png>] [87] [88] [89] [90]
+[91] [92]
+<images-exp/RLC.png, id=1202, 484.81125pt x 136.25906pt>
+File: images-exp/RLC.png Graphic file (type png)
+<use images-exp/RLC.png>
+Package pdftex.def Info: images-exp/RLC.png  used on input line 3101.
+(pdftex.def)             Requested size: 284.52756pt x 79.97215pt.
+ [93] [94 <./images-exp/RLC.png>] [95]
+<images-exp/RLCMCouples.png, id=1218, 122.70844pt x 114.4275pt>
+File: images-exp/RLCMCouples.png Graphic file (type png)
+<use images-exp/RLCMCouples.png>
+Package pdftex.def Info: images-exp/RLCMCouples.png  used on input line 3217.
+(pdftex.def)             Requested size: 142.26378pt x 132.6679pt.
+ [96] [97 <./images-exp/RLCMCouples.png>]
+<images-exp/Fluides7.png, id=1230, 186.6975pt x 141.52875pt>
+File: images-exp/Fluides7.png Graphic file (type png)
+<use images-exp/Fluides7.png>
+Package pdftex.def Info: images-exp/Fluides7.png  used on input line 3276.
+(pdftex.def)             Requested size: 142.26378pt x 107.85017pt.
+ [98 <./images-exp/Fluides7.png>]
+
+LaTeX Warning: Command \' invalid in math mode on input line 3317.
+
+Missing character: There is no é in font cmr10!
+[99]
+Overfull \hbox (24.03143pt too wide) in paragraph at lines 3362--3364
+[]\T1/cmr/m/n/10 Le ren-de-ment $\OML/cmm/m/it/10 ^^Q$ \T1/cmr/m/n/10 du cycle 
+de Stir-ling est (cf. par exemple Ba-za-rov p 331) :[4] $\OML/cmm/m/it/10 ^^Q \
+OT1/cmr/m/n/10 = []$ 
+ []
+
+<images-exp/stirling.jpg, id=1242, 2055.68pt x 1541.76pt>
+File: images-exp/stirling.jpg Graphic file (type jpg)
+<use images-exp/stirling.jpg>
+Package pdftex.def Info: images-exp/stirling.jpg  used on input line 3370.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+[100]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 3385.
+
+[101 <./images-exp/stirling.jpg>]
+Overfull \hbox (2.06926pt too wide) in paragraph at lines 3431--3432
+[]\T1/cmr/m/n/10 Détermination de K constante de cou-plage élec-tro-mé-ca-nique
+, courbe de fonc-tion-ne-ment ($\OT1/cmr/m/n/10 ^^@(
+)$\T1/cmr/m/n/10 ) 
+ []
+
+[102]
+<images-exp/ConvPuiss2.png, id=1256, 233.37187pt x 141.52875pt>
+File: images-exp/ConvPuiss2.png Graphic file (type png)
+<use images-exp/ConvPuiss2.png>
+Package pdftex.def Info: images-exp/ConvPuiss2.png  used on input line 3437.
+(pdftex.def)             Requested size: 142.26378pt x 86.27841pt.
+ [103 <./images-exp/ConvPuiss2.png>] [104]
+<images-exp/Moteur_Asynchrone_Schema.jpg, id=1268, 162.8484pt x 73.7154pt>
+File: images-exp/Moteur_Asynchrone_Schema.jpg Graphic file (type jpg)
+<use images-exp/Moteur_Asynchrone_Schema.jpg>
+Package pdftex.def Info: images-exp/Moteur_Asynchrone_Schema.jpg  used on input
+ line 3515.
+(pdftex.def)             Requested size: 142.26378pt x 64.39844pt.
+<images-exp/moteur_asynchrone.jpg, id=1269, 2055.68pt x 1541.76pt>
+File: images-exp/moteur_asynchrone.jpg Graphic file (type jpg)
+<use images-exp/moteur_asynchrone.jpg>
+Package pdftex.def Info: images-exp/moteur_asynchrone.jpg  used on input line 3
+519.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+ [105 <./images-exp/Moteur_Asynchrone_Schema.jpg>]
+<images-exp/branchement_moteur_asynchrone.jpg, id=1275, 2055.68pt x 1541.76pt>
+File: images-exp/branchement_moteur_asynchrone.jpg Graphic file (type jpg)
+<use images-exp/branchement_moteur_asynchrone.jpg>
+Package pdftex.def Info: images-exp/branchement_moteur_asynchrone.jpg  used on 
+input line 3563.
+(pdftex.def)             Requested size: 142.26378pt x 106.68738pt.
+<images-exp/BranchementsAsynchrone.jpg, id=1276, 1106.1325pt x 1129.21875pt>
+File: images-exp/BranchementsAsynchrone.jpg Graphic file (type jpg)
+<use images-exp/BranchementsAsynchrone.jpg>
+Package pdftex.def Info: images-exp/BranchementsAsynchrone.jpg  used on input l
+ine 3567.
+(pdftex.def)             Requested size: 142.26378pt x 145.21838pt.
+ [106 <./images-exp/moteur_asynchrone.jpg>] [107 <./images-exp/branchement_mote
+ur_asynchrone.jpg> <./images-exp/BranchementsAsynchrone.jpg>] [108]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3628.
+ [109]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3628.
+ (./montages.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3628.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3628.
+
+Package rerunfilecheck Info: File `montages.out' has not changed.
+(rerunfilecheck)             Checksum: BB7412BD5C2CC9B8D2A0ADAA1C4DAB05;12270.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3628.
+ ) 
+Here is how much of TeX's memory you used:
+ 9397 strings out of 482560
+ 143597 string characters out of 5951367
+ 401682 words of memory out of 5000000
+ 24016 multiletter control sequences out of 15000+600000
+ 551797 words of font info for 74 fonts, out of 8000000 for 9000
+ 286 hyphenation exceptions out of 8191
+ 34i,7n,35p,1651b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0500.600
+pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000.60
+0pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.6
+00pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm0700.
+600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1000
+.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc100
+0.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx12
+00.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
+000.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx
+1440.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecr
+m0800.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+rm1200.600pk> </home/elise/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/e
+crm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on montages.pdf (109 pages, 15295021 bytes).
+PDF statistics:
+ 1851 PDF objects out of 2073 (max. 8388607)
+ 1199 compressed objects within 12 object streams
+ 334 named destinations out of 1000 (max. 500000)
+ 1571 words of extra memory for PDF output out of 10000 (max. 10000000)
+
