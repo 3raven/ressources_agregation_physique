@@ -223,53 +223,57 @@
 \BOOKMARK [3][-]{subsubsection.21.4.1}{Loi d'Arrh\351nius}{subsection.21.4}% 223
 \BOOKMARK [2][-]{subsection.21.5}{Conclusion}{section.21}% 224
 \BOOKMARK [1][-]{section.22}{Evolution et \351quilibre chimique}{}% 225
-\BOOKMARK [2][-]{subsection.22.1}{Caract\351risation de l\220\351quilibre}{section.22}% 226
-\BOOKMARK [3][-]{subsubsection.22.1.1}{Evolution du syst\350me}{subsection.22.1}% 227
-\BOOKMARK [3][-]{subsubsection.22.1.2}{Constante d\220\351quilibre}{subsection.22.1}% 228
-\BOOKMARK [2][-]{subsection.22.2}{D\351placement d\220\351quilibre}{section.22}% 229
-\BOOKMARK [3][-]{subsubsection.22.2.1}{Variance}{subsection.22.2}% 230
-\BOOKMARK [3][-]{subsubsection.22.2.2}{Influence de la temp\351rature}{subsection.22.2}% 231
-\BOOKMARK [3][-]{subsubsection.22.2.3}{Influence de la pression}{subsection.22.2}% 232
-\BOOKMARK [1][-]{section.23}{Diagramme potentiel-pH \(construction exclue\)}{}% 233
-\BOOKMARK [2][-]{subsection.23.1}{R\351activit\351}{section.23}% 234
-\BOOKMARK [2][-]{subsection.23.2}{Stabilit\351}{section.23}% 235
-\BOOKMARK [2][-]{subsection.23.3}{Application : dosage de Winkler}{section.23}% 236
-\BOOKMARK [1][-]{section.24}{Optimisation d'un proc\351d\351 chimique}{}% 237
-\BOOKMARK [2][-]{subsection.24.1}{Notion de variance}{section.24}% 238
-\BOOKMARK [3][-]{subsubsection.24.1.1}{Variance}{subsection.24.1}% 239
-\BOOKMARK [3][-]{subsubsection.24.1.2}{D\351placement et rupture d'\351quilibre}{subsection.24.1}% 240
-\BOOKMARK [2][-]{subsection.24.2}{Optimisation thermodynamique}{section.24}% 241
-\BOOKMARK [3][-]{subsubsection.24.2.1}{Influence de la pression}{subsection.24.2}% 242
-\BOOKMARK [3][-]{subsubsection.24.2.2}{Influence de la temp\351rature}{subsection.24.2}% 243
-\BOOKMARK [2][-]{subsection.24.3}{Optimisation cin\351tique}{section.24}% 244
-\BOOKMARK [3][-]{subsubsection.24.3.1}{Energie d'activation}{subsection.24.3}% 245
-\BOOKMARK [3][-]{subsubsection.24.3.2}{Catalyse}{subsection.24.3}% 246
-\BOOKMARK [1][-]{section.25}{Corrosion humide des m\351taux}{}% 247
-\BOOKMARK [2][-]{subsection.25.1}{Corrosion uniforme}{section.25}% 248
-\BOOKMARK [3][-]{subsubsection.25.1.1}{Corrosion acide}{subsection.25.1}% 249
-\BOOKMARK [3][-]{subsubsection.25.1.2}{Corrosion neutre a\351r\351e}{subsection.25.1}% 250
-\BOOKMARK [2][-]{subsection.25.2}{Corrosion diff\351rentielle}{section.25}% 251
-\BOOKMARK [3][-]{subsubsection.25.2.1}{Corrosion galvanique}{subsection.25.2}% 252
-\BOOKMARK [3][-]{subsubsection.25.2.2}{A\351ration diff\351rentielle}{subsection.25.2}% 253
-\BOOKMARK [3][-]{subsubsection.25.2.3}{Electrozingage}{subsection.25.2}% 254
-\BOOKMARK [1][-]{section.26}{Conversion r\351ciproque d'\351nergie \351lectrique en \351nergie chimique}{}% 255
-\BOOKMARK [2][-]{subsection.26.1}{Conversion d'\351nergie chimique en \351nergie \351lectrique : la pile Daniell}{section.26}% 256
-\BOOKMARK [3][-]{subsubsection.26.1.1}{Etude thermodynamique}{subsection.26.1}% 257
-\BOOKMARK [3][-]{subsubsection.26.1.2}{Etude cin\351tique}{subsection.26.1}% 258
-\BOOKMARK [2][-]{subsection.26.2}{Conversion d'\351nergie \351lectrique en \351nergie chimique : \351lectrolyse}{section.26}% 259
-\BOOKMARK [3][-]{subsubsection.26.2.1}{Efficacit\351 de la synth\350se}{subsection.26.2}% 260
-\BOOKMARK [3][-]{subsubsection.26.2.2}{Rendue possible par un blocage cin\351tique}{subsection.26.2}% 261
-\BOOKMARK [1][-]{section.27}{Solubilit\351}{}% 262
-\BOOKMARK [2][-]{subsection.27.1}{Concentration limite et produit de solubilit\351}{section.27}% 263
-\BOOKMARK [2][-]{subsection.27.2}{D\351termination exp\351rimentale}{section.27}% 264
-\BOOKMARK [2][-]{subsection.27.3}{Facteurs influan\347ant la solubilit\351}{section.27}% 265
-\BOOKMARK [1][-]{section.28}{Cin\351tique \351lectrochimique}{}% 266
-\BOOKMARK [2][-]{subsection.28.1}{Vitesse \351lectrochimique}{section.28}% 267
-\BOOKMARK [3][-]{subsubsection.28.1.1}{Vitesse et intensit\351}{subsection.28.1}% 268
-\BOOKMARK [3][-]{subsubsection.28.1.2}{Intensit\351 et potentiel}{subsection.28.1}% 269
-\BOOKMARK [2][-]{subsection.28.2}{Allure des courbes i-E}{section.28}% 270
-\BOOKMARK [3][-]{subsubsection.28.2.1}{Transfert de charge}{subsection.28.2}% 271
-\BOOKMARK [3][-]{subsubsection.28.2.2}{Transfert de mati\350re}{subsection.28.2}% 272
-\BOOKMARK [2][-]{subsection.28.3}{Applications}{section.28}% 273
-\BOOKMARK [3][-]{subsubsection.28.3.1}{Oxydation du fer}{subsection.28.3}% 274
-\BOOKMARK [3][-]{subsubsection.28.3.2}{Electrolyse : synth\350se de l'eau de Javel}{subsection.28.3}% 275
+\BOOKMARK [2][-]{subsection.22.1}{Introduction}{section.22}% 226
+\BOOKMARK [2][-]{subsection.22.2}{Caract\351risation de l\220\351quilibre}{section.22}% 227
+\BOOKMARK [3][-]{subsubsection.22.2.1}{Evolution du syst\350me}{subsection.22.2}% 228
+\BOOKMARK [3][-]{subsubsection.22.2.2}{Constante d\220\351quilibre}{subsection.22.2}% 229
+\BOOKMARK [2][-]{subsection.22.3}{D\351placement d\220\351quilibre}{section.22}% 230
+\BOOKMARK [3][-]{subsubsection.22.3.1}{Variance}{subsection.22.3}% 231
+\BOOKMARK [3][-]{subsubsection.22.3.2}{Influence de la temp\351rature}{subsection.22.3}% 232
+\BOOKMARK [3][-]{subsubsection.22.3.3}{Influence de la pression}{subsection.22.3}% 233
+\BOOKMARK [2][-]{subsection.22.4}{Conclusion}{section.22}% 234
+\BOOKMARK [1][-]{section.23}{Diagramme potentiel-pH \(construction exclue\)}{}% 235
+\BOOKMARK [2][-]{subsection.23.1}{R\351activit\351}{section.23}% 236
+\BOOKMARK [2][-]{subsection.23.2}{Stabilit\351}{section.23}% 237
+\BOOKMARK [2][-]{subsection.23.3}{Application : dosage de Winkler}{section.23}% 238
+\BOOKMARK [1][-]{section.24}{Optimisation d'un proc\351d\351 chimique}{}% 239
+\BOOKMARK [2][-]{subsection.24.1}{Introduction}{section.24}% 240
+\BOOKMARK [2][-]{subsection.24.2}{Notion de variance}{section.24}% 241
+\BOOKMARK [3][-]{subsubsection.24.2.1}{Variance}{subsection.24.2}% 242
+\BOOKMARK [3][-]{subsubsection.24.2.2}{D\351placement et rupture d'\351quilibre}{subsection.24.2}% 243
+\BOOKMARK [2][-]{subsection.24.3}{Optimisation thermodynamique}{section.24}% 244
+\BOOKMARK [3][-]{subsubsection.24.3.1}{Influence de la pression}{subsection.24.3}% 245
+\BOOKMARK [3][-]{subsubsection.24.3.2}{Influence de la temp\351rature}{subsection.24.3}% 246
+\BOOKMARK [2][-]{subsection.24.4}{Optimisation cin\351tique}{section.24}% 247
+\BOOKMARK [3][-]{subsubsection.24.4.1}{Energie d'activation}{subsection.24.4}% 248
+\BOOKMARK [3][-]{subsubsection.24.4.2}{Catalyse}{subsection.24.4}% 249
+\BOOKMARK [1][-]{section.25}{Corrosion humide des m\351taux}{}% 250
+\BOOKMARK [2][-]{subsection.25.1}{Corrosion uniforme}{section.25}% 251
+\BOOKMARK [3][-]{subsubsection.25.1.1}{Corrosion acide}{subsection.25.1}% 252
+\BOOKMARK [3][-]{subsubsection.25.1.2}{Corrosion neutre a\351r\351e}{subsection.25.1}% 253
+\BOOKMARK [2][-]{subsection.25.2}{Corrosion diff\351rentielle}{section.25}% 254
+\BOOKMARK [3][-]{subsubsection.25.2.1}{Corrosion galvanique}{subsection.25.2}% 255
+\BOOKMARK [3][-]{subsubsection.25.2.2}{A\351ration diff\351rentielle}{subsection.25.2}% 256
+\BOOKMARK [3][-]{subsubsection.25.2.3}{Electrozingage}{subsection.25.2}% 257
+\BOOKMARK [1][-]{section.26}{Conversion r\351ciproque d'\351nergie \351lectrique en \351nergie chimique}{}% 258
+\BOOKMARK [2][-]{subsection.26.1}{Introduction}{section.26}% 259
+\BOOKMARK [2][-]{subsection.26.2}{Conversion d'\351nergie chimique en \351nergie \351lectrique : la pile Daniell}{section.26}% 260
+\BOOKMARK [3][-]{subsubsection.26.2.1}{Etude thermodynamique}{subsection.26.2}% 261
+\BOOKMARK [3][-]{subsubsection.26.2.2}{Etude cin\351tique}{subsection.26.2}% 262
+\BOOKMARK [2][-]{subsection.26.3}{Conversion d'\351nergie \351lectrique en \351nergie chimique : \351lectrolyse}{section.26}% 263
+\BOOKMARK [3][-]{subsubsection.26.3.1}{Efficacit\351 de la synth\350se}{subsection.26.3}% 264
+\BOOKMARK [3][-]{subsubsection.26.3.2}{Rendue possible par un blocage cin\351tique}{subsection.26.3}% 265
+\BOOKMARK [1][-]{section.27}{Solubilit\351}{}% 266
+\BOOKMARK [2][-]{subsection.27.1}{Concentration limite et produit de solubilit\351}{section.27}% 267
+\BOOKMARK [2][-]{subsection.27.2}{D\351termination exp\351rimentale}{section.27}% 268
+\BOOKMARK [2][-]{subsection.27.3}{Facteurs influan\347ant la solubilit\351}{section.27}% 269
+\BOOKMARK [1][-]{section.28}{Cin\351tique \351lectrochimique}{}% 270
+\BOOKMARK [2][-]{subsection.28.1}{Vitesse \351lectrochimique}{section.28}% 271
+\BOOKMARK [3][-]{subsubsection.28.1.1}{Vitesse et intensit\351}{subsection.28.1}% 272
+\BOOKMARK [3][-]{subsubsection.28.1.2}{Intensit\351 et potentiel}{subsection.28.1}% 273
+\BOOKMARK [2][-]{subsection.28.2}{Allure des courbes i-E}{section.28}% 274
+\BOOKMARK [3][-]{subsubsection.28.2.1}{Transfert de charge}{subsection.28.2}% 275
+\BOOKMARK [3][-]{subsubsection.28.2.2}{Transfert de mati\350re}{subsection.28.2}% 276
+\BOOKMARK [2][-]{subsection.28.3}{Applications}{section.28}% 277
+\BOOKMARK [3][-]{subsubsection.28.3.1}{Oxydation du fer}{subsection.28.3}% 278
+\BOOKMARK [3][-]{subsubsection.28.3.2}{Electrolyse : synth\350se de l'eau de Javel}{subsection.28.3}% 279

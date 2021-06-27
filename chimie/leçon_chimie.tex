@@ -1579,7 +1579,8 @@ H est une fonction d'état indépendante du chemin suivi. On peut calculer une e
 
 définition de l'état standard
 \subsubsection{Convention et état standard de référence}
-déf ESR : à P standard; thermodynamiquement stable à $25°C$. Il s'agit d'un état iréel/idéalisé qui sert de modèle et d'intermédiaire de calcul.
+
+déf ESR : à P standard; thermodynamiquement stable à $25^\circ C$. Il s'agit d'un état iréel/idéalisé qui sert de modèle et d'intermédiaire de calcul.
 
 déf enthalpie standard de formation : c'est l'enthalpie de la réaction donnant une mole de composé, partant des éléments constitutifs pris dans leur ESR.
 
@@ -1842,8 +1843,8 @@ Titrage, pH à la demi-équivalence.
 
 \underline{Définition de la variance :} nombre de paramètres intensif que l'on peut choisir sans remettre en cause l'équilibre du système.
 
-\begin{tabular}{lllll}
-V=&C-&r-&k+&2-&\phi\\
+\begin{tabular}{llllll}
+$V=$&$C-$&$r-$&$k+$&$2-$&$\phi$\\
 &nombre de constituants & nombre d'équations indépendantes& nombre de contraintes imposées & P,T & nombre de phases\\
 \end{tabular}
 
@@ -1864,9 +1865,11 @@ L'augmentation de T à P cte entraine le déplacement de l'équilibre dans le se
 \subsubsection{Influence de la pression}
 La pression peut intervenir dans le quotient de réaction via l'activité d'un gaz.
 
-Loi de Dalton : \[P_i=\frac{n_i}{n_{tot}P_{tot}\]
+Loi de Dalton : \[P_i=\frac{n_i}{n_{tot}P_{tot}}\]
 
-Loi de Le Chatelier \[Q=cte \left(\frac{P_{tot}}{n_{tot}P^\circ}\right)^{\Delta_r \nu_{gaz}}\]
+Loi de Le Chatelier 
+
+\[Q= cte \left( \frac{P_{tot}}{n_{tot}P^\circ} \right)^{\Delta_r \nu_{gaz}}\]
 
 L'augmentation de P à T cte entraine un déplacement de l'équilibre dans le sens d'une diminution du nombre de moles de gaz.
 
@@ -1896,25 +1899,56 @@ Superposer les diagrammes du fer et de l'iode avec chimigéné
 
 \underline{Prérequis :} premier et second principe, cinétique chimique, critère d'évolution spontané
 
-\underline{Biblio :} 
+\underline{Biblio :} Mesplède, livres à programme
 
-intro : exemple du procédé Haber-Bosch
+\subsection{Introduction}
+
+exemple du procédé Haber-Bosch
+
+Optimisation : jouer sur la thermo (P, T) rupture ou diminution d'équilibre, jouer sur la cinétique (T, catalyse pour diminuer Ea).
 
 \subsection{Notion de variance}
 \subsubsection{Variance}
+
+\underline{Définition de la variance :} nombre de paramètres que l'expérimentateur peut faire varier sans remettre en cause l'existence de l'équilibre chimique.
+
+$V=X-Y$ 
+
+$X$ nombre de paramètres intensifs
+
+$Y$ nombre de relations indépendantes 
+
+exemple :
+
+$N_2(g) + 3 H_2(g) = 2 NH_3(g)$
+
+X : P, T, $P_{N_2}$, $P_{H_2}$, $P_{NH_3}$
+
+Y : $K^\circ=\frac{P_{NH_3}^3}{P_{N_2}P_{H_2}^3}$ et $P=\sum P_i$
+
+$V=3$
+
 \subsubsection{Déplacement et rupture d'équilibre}
 \subsection{Optimisation thermodynamique}
-lois de modérations
+lois de modérations (cf plus haut)
 \subsubsection{Influence de la pression}
 Loi de le Châtelier
 \textit{Manip 1 : Equilibre entre le tétra oxyde de diazote et le dioxyde d’azote, BUP n°879 décembre 2005, page 1173-1179 \url{http://bupdoc.udppc.asso.fr/consultation/article-bup.php?ID\_fiche=19222}}
 \subsubsection{Influence de la température}
-Loi de Van't hoff
+Loi de Van't hoff issue de la loi de Gibbs
 \textit{Manip 2 : Echange de ligand, Experience de chimie pour le capes page 70}
 \subsection{Optimisation cinétique}
 \subsubsection{Energie d'activation}
+
+Loi d'Arhenius $k=A e^{\frac{Ea}{RT}}$
+
+Pour $Ea > 0$ si T augmente, k augmente, la vitesse de réaction augmente.
+
+
+
 \textit{Manip 3: Experience du coucher de soleil, dismutation des ions thiosulfates, Mesplède : 100 expériences de chimie (générale et analytique) Manipulation 75 p194}
 \subsubsection{Catalyse}
+
 \section{Corrosion humide des métaux}
 \underline{Niveau :} CPGE 
 
@@ -1947,18 +1981,34 @@ Goutte d'Evans
 
 \underline{Biblio :} BUP 902 electrolyse de l'eau, Cachau redox
 
+\subsection{Introduction}
+
+Enjeux industriels/technologique/écologique liés aux piles/batteries plus efficaces et moins polluantes. Synthèse de produits chimiques par électrolyse.
+
 \subsection{Conversion d'énergie chimique en énergie électrique : la pile Daniell}
 \subsubsection{Etude thermodynamique}
-enthalpie de réaction, déterminer expérimentalement celle de la pile Daniell
+Enthalpie de réaction, déterminer expérimentalement celle de la pile Daniell
+
 \textit{Manip 1 : Etude de la pile Daniell, Cachau}
-lien avec la fem et l'enthalpie de réaction
+
+Lien avec la fem et l'enthalpie de réaction
 \subsubsection{Etude cinétique}
-tracé de la courbe courant-potentiel, sys rapide
+
+Limite cinétiques dues aux échanges de matières à la surface des électrodes (transfert matière et charge).
+
+Tracé de la courbe courant-potentiel, sys rapide
+
 \subsection{Conversion d'énergie électrique en énergie chimique : électrolyse}
 \subsubsection{Efficacité de la synthèse}
+
+Calcul du rendement : $I*\Delta t$ nb d'e- échangés et titrage iodométrique des ions hypochlorites.
+
 \subsubsection{Rendue possible par un blocage cinétique}
-ex sys lent avec O2, blocage cinétique
+
+Ex sys lent avec O2, blocage cinétique qui permet cette synthèse.
+
 \textit{Manip 2 : Synthèse et titrage de l'eau de Javel}
+
 \section{Solubilité}
 \underline{Niveau :} CPGE 
 
@@ -1966,16 +2016,29 @@ ex sys lent avec O2, blocage cinétique
 
 \underline{Biblio :} Dunod PTSI et MPSI
 
+Exemple des coraux dans le monde vivant ($CaCO_3$ se solubilise) et acidification des océans.
+
 \subsection{Concentration limite et produit de solubilité}
-Expérience qualitative
+
+Expérience qualitative pour mettre en évidence l'existence d'une concentration limite.
+
+définition de la solubilité
+
+\textit{Manip : sel dans l'eau jusqu'à saturation}
+
 \subsection{Détermination expérimentale}
 
 \textit{Manip : Détermination du pKs de AgCl par potentiométrie (Fosset)}
+
 \subsection{Facteurs influançant la solubilité}
-température, ions communs
+Température, ions communs
+
+Loi de Van t hoff
+
 \textit{Manip : Effet d’ions commun AgCl (Mesplède)}
 %\textit{Manip : Influence de la température sur la dissolution de l’acide benzoïque (Fosset)}
-pb cinétique
+
+pb cinétique : métastabilité pr gdes solubilités
 
 \section{Cinétique électrochimique}
 \underline{Niveau :} CPGE 

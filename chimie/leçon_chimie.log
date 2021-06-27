@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.7.10)  26 JUN 2021 22:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.7.10)  28 JUN 2021 01:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,13 +473,13 @@ Overfull \hbox (14.75194pt too wide) in paragraph at lines 86--87
 _ manipulation _ pouvoir _ calorifique .
  []
 
-<images/3D_model_hydrogen_bonds_in_water.png, id=891, 321.2pt x 318.791pt>
+<images/3D_model_hydrogen_bonds_in_water.png, id=955, 321.2pt x 318.791pt>
 File: images/3D_model_hydrogen_bonds_in_water.png Graphic file (type png)
 <use images/3D_model_hydrogen_bonds_in_water.png>
 Package pdftex.def Info: images/3D_model_hydrogen_bonds_in_water.png  used on i
 nput line 123.
 (pdftex.def)             Requested size: 142.26378pt x 141.19756pt.
-<images/liaison_intramol.png, id=893, 1297.84875pt x 420.57124pt>
+<images/liaison_intramol.png, id=957, 1297.84875pt x 420.57124pt>
 File: images/liaison_intramol.png Graphic file (type png)
 <use images/liaison_intramol.png>
 Package pdftex.def Info: images/liaison_intramol.png  used on input line 130.
@@ -500,69 +500,69 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 188.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 188.
 
 Missing character: There is no � in font cmr10!
-<images/pile_Daniell.png, id=912, 547.04375pt x 492.84125pt>
+<images/pile_Daniell.png, id=976, 547.04375pt x 492.84125pt>
 File: images/pile_Daniell.png Graphic file (type png)
 <use images/pile_Daniell.png>
 Package pdftex.def Info: images/pile_Daniell.png  used on input line 211.
 (pdftex.def)             Requested size: 199.16928pt x 179.4381pt.
 [4 <./images/pile_Daniell.png>]
-<images/Schemas_electrolyse_h2o.png, id=919, 194.326pt x 302.731pt>
+<images/Schemas_electrolyse_h2o.png, id=984, 194.326pt x 302.731pt>
 File: images/Schemas_electrolyse_h2o.png Graphic file (type png)
 <use images/Schemas_electrolyse_h2o.png>
 Package pdftex.def Info: images/Schemas_electrolyse_h2o.png  used on input line
  227.
 (pdftex.def)             Requested size: 142.26378pt x 221.63849pt.
-<images/electrolyse_eau.jpg, id=920, 1469.49pt x 1939.245pt>
+<images/electrolyse_eau.jpg, id=985, 1469.49pt x 1939.245pt>
 File: images/electrolyse_eau.jpg Graphic file (type jpg)
 <use images/electrolyse_eau.jpg>
 Package pdftex.def Info: images/electrolyse_eau.jpg  used on input line 237.
 (pdftex.def)             Requested size: 199.16928pt x 262.82245pt.
  [5 <./images/Schemas_electrolyse_h2o.png>]
-<images/Cram.png, id=928, 1390.19376pt x 253.94875pt>
+<images/Cram.png, id=993, 1390.19376pt x 253.94875pt>
 File: images/Cram.png Graphic file (type png)
 <use images/Cram.png>
 Package pdftex.def Info: images/Cram.png  used on input line 276.
 (pdftex.def)             Requested size: 284.52756pt x 51.97458pt.
 
 [6 <./images/electrolyse_eau.jpg>]
-<images/VSEPR1.png, id=935, 1842.885pt x 652.4375pt>
+<images/VSEPR1.png, id=1000, 1842.885pt x 652.4375pt>
 File: images/VSEPR1.png Graphic file (type png)
 <use images/VSEPR1.png>
 Package pdftex.def Info: images/VSEPR1.png  used on input line 285.
 (pdftex.def)             Requested size: 426.79134pt x 151.09282pt.
-<images/VSEPR2.png, id=936, 1745.52126pt x 976.64874pt>
+<images/VSEPR2.png, id=1001, 1745.52126pt x 976.64874pt>
 File: images/VSEPR2.png Graphic file (type png)
 <use images/VSEPR2.png>
 Package pdftex.def Info: images/VSEPR2.png  used on input line 286.
 (pdftex.def)             Requested size: 426.79134pt x 238.7967pt.
-<images/enantiomérie.png, id=937, 794.97pt x 377.41pt>
+<images/enantiomérie.png, id=1002, 794.97pt x 377.41pt>
 File: images/enantiomérie.png Graphic file (type png)
 <use images/enantiomérie.png>
 Package pdftex.def Info: images/enantiomérie.png  used on input line 305.
 (pdftex.def)             Requested size: 199.16928pt x 94.55382pt.
  [7 <./images/Cram.png>] [8 <./images/VSEPR1.png> <./images/VSEPR2.png> <./imag
 es/enantiomérie.png>]
-<images/ex-enantiomères/Thalidomide_enantiomers.png, id=958, 513.92pt x 593.21
-625pt>
+<images/ex-enantiomères/Thalidomide_enantiomers.png, id=1022, 513.92pt x 593.2
+1625pt>
 File: images/ex-enantiomères/Thalidomide_enantiomers.png Graphic file (type pn
 g)
 <use images/ex-enantiomères/Thalidomide_enantiomers.png>
 Package pdftex.def Info: images/ex-enantiomères/Thalidomide_enantiomers.png  u
 sed on input line 350.
 (pdftex.def)             Requested size: 142.26378pt x 164.21664pt.
-<images/ex-enantiomères/Carvone.png, id=959, 180.675pt x 139.52126pt>
+<images/ex-enantiomères/Carvone.png, id=1023, 180.675pt x 139.52126pt>
 File: images/ex-enantiomères/Carvone.png Graphic file (type png)
 <use images/ex-enantiomères/Carvone.png>
 Package pdftex.def Info: images/ex-enantiomères/Carvone.png  used on input lin
 e 356.
 (pdftex.def)             Requested size: 142.26378pt x 109.86078pt.
-<images/ex-enantiomères/2R-Limonene.png, id=960, 131.0496pt x 288.1164pt>
+<images/ex-enantiomères/2R-Limonene.png, id=1024, 131.0496pt x 288.1164pt>
 File: images/ex-enantiomères/2R-Limonene.png Graphic file (type png)
 <use images/ex-enantiomères/2R-Limonene.png>
 Package pdftex.def Info: images/ex-enantiomères/2R-Limonene.png  used on input
  line 363.
 (pdftex.def)             Requested size: 85.35826pt x 187.66469pt.
-<images/ex-enantiomères/2S-Limonene.png, id=961, 131.0496pt x 288.1164pt>
+<images/ex-enantiomères/2S-Limonene.png, id=1025, 131.0496pt x 288.1164pt>
 File: images/ex-enantiomères/2S-Limonene.png Graphic file (type png)
 <use images/ex-enantiomères/2S-Limonene.png>
 Package pdftex.def Info: images/ex-enantiomères/2S-Limonene.png  used on input
@@ -573,13 +573,14 @@ Overfull \hbox (2.22166pt too wide) in paragraph at lines 362--368
 [][] [] 
  []
 
-<images/ex-enantiomères/Ambersweet_oranges.jpg, id=962, 533.995pt x 602.25pt>
+<images/ex-enantiomères/Ambersweet_oranges.jpg, id=1026, 533.995pt x 602.25pt>
+
 File: images/ex-enantiomères/Ambersweet_oranges.jpg Graphic file (type jpg)
 <use images/ex-enantiomères/Ambersweet_oranges.jpg>
 Package pdftex.def Info: images/ex-enantiomères/Ambersweet_oranges.jpg  used o
 n input line 370.
 (pdftex.def)             Requested size: 113.81102pt x 128.3509pt.
-<images/ex-enantiomères/Mentha-piperita.jpg, id=963, 421.575pt x 313.17pt>
+<images/ex-enantiomères/Mentha-piperita.jpg, id=1027, 421.575pt x 313.17pt>
 File: images/ex-enantiomères/Mentha-piperita.jpg Graphic file (type jpg)
 <use images/ex-enantiomères/Mentha-piperita.jpg>
 Package pdftex.def Info: images/ex-enantiomères/Mentha-piperita.jpg  used on i
@@ -590,7 +591,7 @@ Overfull \hbox (2.22166pt too wide) in paragraph at lines 369--375
 [][] [] 
  []
 
-<images/distillation_écorces.jpg, id=964, 1541.76pt x 2055.68pt>
+<images/distillation_écorces.jpg, id=1028, 1541.76pt x 2055.68pt>
 File: images/distillation_écorces.jpg Graphic file (type jpg)
 <use images/distillation_écorces.jpg>
 Package pdftex.def Info: images/distillation_écorces.jpg  used on input line 3
@@ -605,7 +606,7 @@ mères/Carvone.png>] [10 <./images/ex-enantiomères/2R-Limonene.png> <./images/
 ex-enantiomères/2S-Limonene.png> <./images/ex-enantiomères/Ambersweet_oranges
 .jpg> <./images/ex-enantiomères/Mentha-piperita.jpg>] [11 <./images/distillati
 on_écorces.jpg>]
-<images/isomerie.png, id=986, 1979.395pt x 1453.43pt>
+<images/isomerie.png, id=1050, 1979.395pt x 1453.43pt>
 File: images/isomerie.png Graphic file (type png)
 <use images/isomerie.png>
 Package pdftex.def Info: images/isomerie.png  used on input line 417.
@@ -615,7 +616,7 @@ Overfull \hbox (17.77344pt too wide) in paragraph at lines 416--418
 []\T1/cmr/m/n/10 y4y [] 
  []
 
-<images/conformation_ethane.png, id=987, 1868.9825pt x 951.555pt>
+<images/conformation_ethane.png, id=1051, 1868.9825pt x 951.555pt>
 File: images/conformation_ethane.png Graphic file (type png)
 <use images/conformation_ethane.png>
 Package pdftex.def Info: images/conformation_ethane.png  used on input line 423
@@ -640,8 +641,8 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 476.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 476.
 
 Missing character: There is no � in font cmr10!
-<images/indicateurs/Bromothymol_blue_protolysis.png, id=994, 552.0625pt x 198.7
-425pt>
+<images/indicateurs/Bromothymol_blue_protolysis.png, id=1058, 552.0625pt x 198.
+7425pt>
 File: images/indicateurs/Bromothymol_blue_protolysis.png Graphic file (type png
 )
 <use images/indicateurs/Bromothymol_blue_protolysis.png>
@@ -649,14 +650,14 @@ Package pdftex.def Info: images/indicateurs/Bromothymol_blue_protolysis.png  us
 ed on input line 489.
 (pdftex.def)             Requested size: 284.52756pt x 102.43388pt.
 [13 <./images/conformation_ethane.png>]
-<images/indicateurs/Helianthine_topologique.png, id=1002, 200.75pt x 71.26625pt
+<images/indicateurs/Helianthine_topologique.png, id=1066, 200.75pt x 71.26625pt
 >
 File: images/indicateurs/Helianthine_topologique.png Graphic file (type png)
 <use images/indicateurs/Helianthine_topologique.png>
 Package pdftex.def Info: images/indicateurs/Helianthine_topologique.png  used o
 n input line 497.
 (pdftex.def)             Requested size: 113.81102pt x 40.4036pt.
-<images/indicateurs/Methyl_orange.png, id=1003, 120.45pt x 31.11626pt>
+<images/indicateurs/Methyl_orange.png, id=1067, 120.45pt x 31.11626pt>
 File: images/indicateurs/Methyl_orange.png Graphic file (type png)
 <use images/indicateurs/Methyl_orange.png>
 Package pdftex.def Info: images/indicateurs/Methyl_orange.png  used on input li
@@ -667,7 +668,7 @@ Overfull \hbox (2.22166pt too wide) in paragraph at lines 496--502
 [][] [] 
  []
 
-<images/indicateurs/Phenolphthalein-high-pH-2D-skeletal.png, id=1004, 100.375pt
+<images/indicateurs/Phenolphthalein-high-pH-2D-skeletal.png, id=1068, 100.375pt
  x 95.35625pt>
 File: images/indicateurs/Phenolphthalein-high-pH-2D-skeletal.png Graphic file (
 type png)
@@ -675,7 +676,7 @@ type png)
 Package pdftex.def Info: images/indicateurs/Phenolphthalein-high-pH-2D-skeletal
 .png  used on input line 507.
 (pdftex.def)             Requested size: 56.9055pt x 54.06116pt.
-<images/indicateurs/Phenolphthalein-mid-pH-2D-skeletal.png, id=1005, 100.375pt 
+<images/indicateurs/Phenolphthalein-mid-pH-2D-skeletal.png, id=1069, 100.375pt 
 x 73.27374pt>
 File: images/indicateurs/Phenolphthalein-mid-pH-2D-skeletal.png Graphic file (t
 ype png)
@@ -683,7 +684,7 @@ ype png)
 Package pdftex.def Info: images/indicateurs/Phenolphthalein-mid-pH-2D-skeletal.
 png  used on input line 510.
 (pdftex.def)             Requested size: 56.9055pt x 41.54172pt.
-<images/indicateurs/Phenolphthalein-low-pH-2D-skeletal.png, id=1006, 100.375pt 
+<images/indicateurs/Phenolphthalein-low-pH-2D-skeletal.png, id=1070, 100.375pt 
 x 95.35625pt>
 File: images/indicateurs/Phenolphthalein-low-pH-2D-skeletal.png Graphic file (t
 ype png)
@@ -691,7 +692,7 @@ ype png)
 Package pdftex.def Info: images/indicateurs/Phenolphthalein-low-pH-2D-skeletal.
 png  used on input line 513.
 (pdftex.def)             Requested size: 56.9055pt x 54.06116pt.
-<images/indicateurs/Phenolphthalein-very-low-pH-2D-skeletal.png, id=1007, 100.3
+<images/indicateurs/Phenolphthalein-very-low-pH-2D-skeletal.png, id=1071, 100.3
 75pt x 65.24374pt>
 File: images/indicateurs/Phenolphthalein-very-low-pH-2D-skeletal.png Graphic fi
 le (type png)
@@ -699,7 +700,7 @@ le (type png)
 Package pdftex.def Info: images/indicateurs/Phenolphthalein-very-low-pH-2D-skel
 etal.png  used on input line 516.
 (pdftex.def)             Requested size: 56.9055pt x 36.98921pt.
-<images/Acid-base-titration-fr.png, id=1008, 255.354pt x 293.898pt>
+<images/Acid-base-titration-fr.png, id=1072, 255.354pt x 293.898pt>
 File: images/Acid-base-titration-fr.png Graphic file (type png)
 <use images/Acid-base-titration-fr.png>
 Package pdftex.def Info: images/Acid-base-titration-fr.png  used on input line 
@@ -716,7 +717,7 @@ LaTeX Warning: Command \' invalid in math mode on input line 705.
 
 Missing character: There is no � in font cmr7!
 [18]
-<images/critère_évolution.png, id=1043, 610.28pt x 254.9525pt>
+<images/critère_évolution.png, id=1108, 610.28pt x 254.9525pt>
 File: images/critère_évolution.png Graphic file (type png)
 <use images/critère_évolution.png>
 Package pdftex.def Info: images/critère_évolution.png  used on input line 739
@@ -759,34 +760,31 @@ Overfull \hbox (30.21869pt too wide) in paragraph at lines 1442--1451
 LaTeX Warning: Command \` invalid in math mode on input line 1477.
 
 Missing character: There is no � in font cmr7!
-[33] [34]
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 1582.
-
-
-LaTeX Warning: Command \textdegree invalid in math mode on input line 1582.
-
-Missing character: There is no � in font cmr10!
-[35] [36] [37] [38]
-Overfull \hbox (12.22325pt too wide) in paragraph at lines 1768--1769
+[33] [34] [35] [36] [37] [38]
+Overfull \hbox (12.22325pt too wide) in paragraph at lines 1769--1770
 []\T1/cmr/m/n/10 O� B est le fac-teur pr�-ex-po-nen-tiel, Ea l'�ner-gie d'ac-ti
 -va-tion (en J/mol) et $\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 = 8\OML/cmm/m/it/10 
 :\OT1/cmr/m/n/10 314\OML/cmm/m/it/10 JK[]mol[]$\T1/cmr/m/n/10 ,
  []
 
+[39]
+Overfull \hbox (173.57208pt too wide) in paragraph at lines 1846--1850
+[][] 
+ []
 
-Overfull \hbox (2.595pt too wide) in paragraph at lines 1798--1799
+[40]
+Overfull \hbox (2.595pt too wide) in paragraph at lines 1885--1886
 []$[]$ \T1/cmr/m/n/10 r�-ac-tions d'oxydo-r�duction, acido-basiques, ti-trages,
  construc-tion d'un dia-gramme
  []
 
-[39] [40] [41] [42]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1920.
- [43]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1920.
+[41] [42] [43] [44]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2067.
+ [45]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2067.
  (./leçon_chimie.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1920.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1920.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2067.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2067.
 
 
 
@@ -795,15 +793,15 @@ Package rerunfilecheck Warning: File `leçon_chimie.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `leçon_chimie.out':
-(rerunfilecheck)             Before: 4936565A0A211B36DE159B87B7DFBB47;18073
-(rerunfilecheck)             After:  F9D76D6EFDB1993C2D94921396EC1C29;23043.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1920.
+(rerunfilecheck)             Before: 1DC38101FC4C6C71171068BE37530167;19379
+(rerunfilecheck)             After:  C41BF71E539C6A52EF46E1771D02F7F4;23301.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2067.
  ) 
 Here is how much of TeX's memory you used:
- 9183 strings out of 482560
- 138748 string characters out of 5951367
+ 9205 strings out of 482560
+ 139134 string characters out of 5951367
  401702 words of memory out of 5000000
- 23848 multiletter control sequences out of 15000+600000
+ 23864 multiletter control sequences out of 15000+600000
  546771 words of font info for 63 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
  34i,9n,35p,512b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -829,10 +827,10 @@ ist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy7.pfb>
-Output written on leçon_chimie.pdf (43 pages, 5217929 bytes).
+Output written on leçon_chimie.pdf (45 pages, 5231510 bytes).
 PDF statistics:
- 1835 PDF objects out of 2073 (max. 8388607)
- 1247 compressed objects within 13 object streams
- 341 named destinations out of 1000 (max. 500000)
- 1864 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1897 PDF objects out of 2073 (max. 8388607)
+ 1306 compressed objects within 14 object streams
+ 347 named destinations out of 1000 (max. 500000)
+ 1992 words of extra memory for PDF output out of 10000 (max. 10000000)
 
